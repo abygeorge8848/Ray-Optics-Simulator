@@ -1,3 +1,3 @@
-## Ray Ooptics Simulator
+## Ray Optics Simulator
 
 https://rayopticssimulator.netlify.app/
